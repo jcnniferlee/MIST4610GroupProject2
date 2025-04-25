@@ -75,6 +75,11 @@ This question is important as public officials and law enforcement can conclude 
 The initial manipulation above shows the classifications of certain crimes into 'Felony', 'Misdemeanor', and 'Unclassified'. By separating the different crimes into those categories, we are able to determine what age groups are more subject to misdemeanors and/or felonies. Then to map out our data, we put the count of crime code in rows and the median of age in Y. Then we filtered by ages 1-58 and filtered the crime count to > 1000. We also created a calculated field to identify crime classification and colored the scatterplot based on that. The scatterplot point sizes were based off the count of the crime and the points on the scatterplot were also labeled. 
 
 # CONCLUSION
+Overall, the dataset on crime rates in Los Angeles is essential for understanding the underlying pattern and trends that impact public safety. By analyzing when, where, and to whom crimes are more likely to occur, city officials can make informed decisions about resource allocation, targeted prevention strategies, and are able to evaluate the effectiveness of current policies. This type of insight not only helps reduce crime but also promotes safer, more equitable communities. 
+Ultimately the analysis of crime data plays a critical role in shaping a more proactive, responsive, and just public safety system in a city as large and diverse as Los Angeles. 
+
+# TABLEAU PACKAGED WORDBOOK
+The packaged workbook containing all the visualizations explained above is attached to this repository. 
 
 
 
