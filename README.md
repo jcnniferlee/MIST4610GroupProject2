@@ -33,7 +33,35 @@ The same information is also presented through another visualization mapping out
 After analyzing the data, we are able to concur that in comparison to the first three months of 2024, the first three months of 2025 had a significantly lower crime rate. The total count in 2024 amounts to 52,616 while the total count in 2025 amounts to 257. This is roughly 200 times smaller than the amount of crimes in 2024. We were also able to find that crime decreased disproportionately with there being less crime overall but noticed that there was a particularly large decrease in central and west LA specifically. While this stark contrast may be attributed to reports not being filed in the first few months of 2025, we can also draw to the conclusion that this may be due to the effectiveness of new distrtict attorney Nathan Hochman. After being sworn into office on December 3rd, 2024, Hochman focused much of his attention on the prioritization and implementation  of policies that enforced LAPD focus on high-crime zones. 
 
 # IMPORTANCE
-This question is important as it allows us to draw conclusions about which specific government policies worked and which did not. In determining which policies are effective and which are not, public officials are able to eliminate 
+This question is important as it allows us to draw conclusions about which specific government policies worked and which did not. In determining which policies are effective and which are not, public officials are able to eliminate the unsuccessful policies and replace them with more important policies instead. With more successful policies, crime rates will decrease and more crimes can be prevented. Projections for crimes in certain areas can also help with things like resource allocation, which is important to prevent crime. With more properly allocated resources the right people, tools, and funding are directed toward the most effective strategies and areas of need.
+
+# QUESTION 2
+Is there a correlation in the types of crimes committed against different age groups and whether the severity of a crime varies depending on the age of the victim?
+
+# MANIPULATION
+![3F054A75-9265-4DE4-93B8-47114A039852_1_201_a](https://github.com/user-attachments/assets/d9d915f4-f759-4f05-b95a-4cdfc5e046ca)
+The initial manipulation above shows the classifications of certain crimes into 'Felony', 'Misdemeanor', and 'Unclassified'. By separating the different crimes into those categories, we are able to determine what age groups are more subject to misdemeanors and/or felonies.
+
+# VISUALIZATION 1
+![FC27E622-BD57-4951-90B7-136DA70F7DB9_1_201_a](https://github.com/user-attachments/assets/2c523cd4-7e01-4932-a01f-63b0d7298db5)
+This is an overall scatterplot showing the correlation between victims age and crime count not including zero.
+
+# VISUALIZATION 2
+![C7A70D0D-11A4-4CD9-B01F-6E6D5A97C57E_1_201_a](https://github.com/user-attachments/assets/16468b32-e2e8-4b4b-a375-96ed61eb272f)
+This is the same scatterplot as above now including zero.
+
+# AGES 1 - 17
+![E0D7615D-E726-4CBF-95A5-D02A49025C89_1_201_a](https://github.com/user-attachments/assets/f36048f1-212f-491f-9a28-422bd6729d43)
+
+# AGES 18 - 29
+![20622FF0-FB41-4F5A-937E-6E7C04DED50D_1_201_a](https://github.com/user-attachments/assets/9b28d1b7-bca7-41e1-905c-7c2f245cf8f9)
+
+# AGES 30 - 40
+![3BC561F3-8044-464D-A66E-75E1B0862292_1_201_a](https://github.com/user-attachments/assets/47a915ea-0030-4305-8fce-ace74c6b55d2)
+
+# AGES 41 - 58
+![3C3BD8DD-B99E-453E-8F1A-F8E5B56D5F53_1_201_a](https://github.com/user-attachments/assets/dc7b11fa-5ee0-43d0-a4d8-209ef8f46064)
+
 
 
 
